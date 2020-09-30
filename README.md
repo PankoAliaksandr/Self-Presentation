@@ -1,7 +1,12 @@
 # Self-Presentation
-Who I am, my life roles, CV/Resume, How to pass Interview, Supplements
+Check the wiki!
 
-# Wike page contains the presentation itself
+# Table of Contents
+* Home
+* Resume Support Page
+
+The content includes:
+Who I am, my life roles, CV/Resume, How to pass Interview, Supplements
 
 # TODO:
 1. Transfer all related content in this repository from soft skills repo
