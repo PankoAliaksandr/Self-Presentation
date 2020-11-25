@@ -6,7 +6,7 @@ Check the wiki!
 * Resume Support Page
 
 The content includes:
-Who I am, my life roles, CV/Resume, How to pass Interview, Supplements
+Who I am, my life roles, CV/Resume, Supplements
 
 # TODO:
 1. Transfer all related content in this repository from soft skills repo
